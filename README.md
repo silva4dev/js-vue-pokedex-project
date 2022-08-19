@@ -1,4 +1,4 @@
-# guia-pokedex
+# pokdex-vue
 
 ## Project setup
 ```
